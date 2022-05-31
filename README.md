@@ -1,12 +1,11 @@
 # Movie-Recommendation-System
 A content based movie recommender system using cosine similarity
-
--**Dataset link:** [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
--**Programming language:** Python
--**API:** TMDB
--**Framework:** Streamlit
--**Libraries:** Pandas, NumPy
--**IDE used:** Jupyter Notebook and Pycharm
+1. **Dataset link:** [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+2. **Programming language:** Python
+3. **API:** TMDB
+4. **Framework:** Streamlit
+5. **Libraries:** Pandas, NumPy
+6. **IDE used:** Jupyter Notebook and Pycharm
 
 **How to get the API key?**
 Create an account in https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your API sidebar once your request is approved.
